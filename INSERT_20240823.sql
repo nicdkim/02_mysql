@@ -72,4 +72,12 @@ WHERE menu_name = "바나나해장국";
 SELECT 
 	*
   FROM tbl_menu
-WHERE menu_name = "델몬트바나나";
+WHERE menu_name = "asdasdasd";
+
+SELECT 
+	*
+  FROM tbl_menu;
+  
+
+
+
